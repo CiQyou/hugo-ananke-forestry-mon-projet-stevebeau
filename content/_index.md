@@ -1,7 +1,7 @@
 ---
-title: 'Ananke: a Hugo Theme'
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
-description: The last theme you'll ever need. Maybe.
+title: Les Apprentis Marketeux
+featured_image: "/images/apprentis-marketeux-banniere.png"
+description: Chez nous vous apprenez ce que l'on apprend
 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Bienvenue sur mon blog avec certains de mes travaux en cours. J'ai travaillé sur cette idée de livre. Vous pouvez lire certains des chapitres ci-dessous.
