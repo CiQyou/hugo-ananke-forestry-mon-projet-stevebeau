@@ -1,9 +1,11 @@
 ---
-title: Les Apprentis Marketeux
-featured_image: "/images/apprentis-marketeux-banniere-plus-petit-de-moitie.png"
-description: Chez nous vous apprenez ce que l'on apprend
+title: ''
+featured_image: "/images/apprentis-marketeux-banniere-plus-petit-de-moitie-1.png"
+description: ''
 
 ---
-Devenez le marketeux de demain,
+#### **Chez nous, on vous apprend ce que l'on apprends !**
 
-Et prenez votre destin en main !
+**_Devenez le marketeux de demain,_**
+
+**_Et prenez votre destin en main !_**
