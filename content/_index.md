@@ -2,6 +2,10 @@
 title: " ACCUEIL"
 featured_image: "/images/apprentis-marketeux-banniere-plus-petit-de-moitie-1.png"
 description: " Page d'Accueil du site les Apprentis Marketeux"
+menu:
+  main:
+    name: ''
+    weight: 1
 
 ---
 # BIENVENUE SUR LE SITE DES APPRENTIS MARKETEUX !

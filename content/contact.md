@@ -5,7 +5,8 @@ omit_header_text: true
 description: N'hésitez pas à nous écrire !
 type: page
 menu:
-  main: {}
+  main:
+    weight: 2
 
 ---
 Hey !
