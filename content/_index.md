@@ -1,5 +1,5 @@
 ---
-title: ''
+title: " "
 featured_image: "/images/apprentis-marketeux-banniere-plus-petit-de-moitie-1.png"
 description: ''
 
