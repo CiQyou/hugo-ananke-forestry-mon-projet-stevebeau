@@ -14,4 +14,4 @@ Tu as des questions ou des propositions ?
 
 N'hésites pas à nous écrire aux adresses mail suivantes !
 
-    [mailto](mailto:qclaudel@normandiewebschool.fr)
+qclaudel@normandiewebschool.fr
