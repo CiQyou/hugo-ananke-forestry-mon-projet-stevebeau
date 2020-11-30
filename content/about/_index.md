@@ -1,6 +1,6 @@
 ---
-title: " "
-description: " "
+title: A PROPOS DE NOUS
+description: " Tout ce qui nous concerne"
 featured_image: "/images/a-propos-de-nous.png"
 
 ---
