@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: images/notebook.jpg
+featured_image: "/images/banniere-contact-1920-350.jpg"
 omit_header_text: true
 description: N'hésitez pas à nous écrire !
 type: page
